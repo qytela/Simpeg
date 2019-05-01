@@ -39,3 +39,6 @@ $db['default'] = array(
 NIK: 332
 Password: ganteng
 ```
+
+# License
+MIT License.
